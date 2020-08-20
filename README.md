@@ -1,6 +1,9 @@
 # mullion
 A collection of scripts for ps3 syscon CXR(F)
 
+## Python requirements
+sudo -H pip install pycryptodome
+
 FULL.py
 
 Feed it DECR fws, get decrypted result and cmac verification
